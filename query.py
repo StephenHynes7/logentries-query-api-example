@@ -44,7 +44,7 @@ def print_stats():
 
 
 def load_config():
-    config.read('stats.ini')
+    config.read('query.ini')
 
 
 def get_params():
